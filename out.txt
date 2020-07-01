@@ -1,0 +1,8 @@
+   Compiling subprocess v0.1.0 (/home/shane/dev/rust/subprocess)
+    Finished test [unoptimized + debuginfo] target(s) in 0.40s
+     Running target/debug/deps/subprocess-37da21c31af717dc
+what
+parent
+about to exec
+   Doc-tests subprocess
+Error: Os { code: 5, kind: Other, message: "Input/output error" }
